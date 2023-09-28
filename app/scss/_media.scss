@@ -1,3 +1,30 @@
+@media (min-width: 2550px) {
+    .logo_container {
+        margin-bottom: 100px;
+    }
+    .welcom_bonus {
+        margin-bottom: 250px;
+    }
+    #lottie-animation,
+    #lottie-animation_red {
+        width: 1800px;
+        height: 1500px;
+        top: 25px;
+    }
+    .welcom_bonus_img {
+        width: 900px;
+    }
+}
+
+@media (min-width: 1025px) {
+    .welcom_bonus_img {
+        margin-left: -20px;
+    }
+    .footer {
+        margin-top: 40px;
+    }
+}
+
 @media(max-width: 950px) {
     .welcom_bonus_img {
         width: 500px;
